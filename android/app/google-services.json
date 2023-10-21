@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53579060333",
+    "project_id": "fir-praktiki-task",
+    "storage_bucket": "fir-praktiki-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53579060333:android:35546896bed4e06a471b64",
+        "android_client_info": {
+          "package_name": "com.example.task_praktiki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_1e9zfFdCPTECnzY-LhQqIGb2cVcorcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
